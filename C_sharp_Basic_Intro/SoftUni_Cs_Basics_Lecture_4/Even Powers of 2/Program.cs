@@ -1,0 +1,22 @@
+﻿using System;
+
+namespace Even_Powers_of_2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {   //even power of 2
+            int n = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i <= n; i += 1)
+            {
+                if (i % 2 == 0)
+                {
+
+                    Console.WriteLine(Math.Pow(2, i));
+                }
+            }
+
+        }
+    }
+}
