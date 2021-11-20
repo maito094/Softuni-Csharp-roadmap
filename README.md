@@ -1,10 +1,10 @@
 - 👋 Hello World! I’m @maito094 aka Metodi.
-      Currently working as Automation engineer and alongside learning C# courses at Softuni.🎓
+      Currently working as Industrial Automation engineer and alongside learning C# courses at Softuni.🎓
       
   💥 As a professional in automation technology my interests are into Robotics, Vision Inspection systems, PLCs and now Application and Web Developement.
   
   💫 I’m keen to combine low and high level control over machines, processes as well make functional and practical user-friendly and user-experience oriented interfaces & HMIs.
-      Integrating harware and software with great level of "synchronicity".
+      Integrating hardware and software with great level of "synchronicity".
       
   🔍 You can find me on : 
 
