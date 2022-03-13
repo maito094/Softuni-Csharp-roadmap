@@ -1,0 +1,1 @@
+Server.js is used for all JS_Applications like a remote server to make AJAX requests with CRUD operations
